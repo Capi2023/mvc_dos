@@ -110,10 +110,7 @@ def complete_task(task_id):
 
 Video de la corrida
 
-[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg)](https://www.youtube.com/watch?v=FEa2diI2qgA)
-
-
-[![Corrida del programa MVC 2](https://img.youtube.com/O-EIGLweJm4/mqdefault.jpg)](https://youtu.be/O-EIGLweJm4)
+[![Corrida del programa MVC 2](https://img.youtube.com/vi/O-EIGLweJm4/mqdefault.jpg)](https://www.youtube.com/watch?v=O-EIGLweJm4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O-EIGLweJm4?si=N4rJ43-fDwzsMdx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
