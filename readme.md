@@ -2,6 +2,11 @@
 
 Esta es una aplicación de gestión de tareas desarrollada con Flask.
 
+# Imagenes del Proyecto
+![Sin nada](imagenes\Captura de pantalla 2024-11-08 123532.png)
+![Con tareas](imagenes\Captura de pantalla 2024-11-08 123601.png)
+![Una tarea completada](imagenes\Captura de pantalla 2024-11-08 123700.png)
+
 ## Características
 - Crear, leer, actualizar y eliminar tareas.
 - Validación de fechas para evitar asignar tareas con fechas de vencimiento en el pasado.
@@ -41,13 +46,3 @@ Esta es una aplicación de gestión de tareas desarrollada con Flask.
 ## Uso
 
 - Navega a `http://localhost:5000/tasks` para ver y administrar tus tareas.
-
-## Contribuir
-1. Haz un fork del proyecto.
-2. Crea una rama para tu función (`git checkout -b feature/nueva-funcionalidad`).
-3. Haz commit de tus cambios (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz push de la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT.
