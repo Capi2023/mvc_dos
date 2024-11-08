@@ -1,2 +1,12 @@
 # Entorno virtual
 mcvdos/
+venv/
+.env/
+
+# Archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Archivos de configuración específicos del editor
+.vscode/
+.idea/
