@@ -108,13 +108,12 @@ def complete_task(task_id):
 
 # Proyecto una vez refactorizado
 
-Video de la corrida
-
+Video de la corrida: https://youtu.be/O-EIGLweJm4
+### Da click a la imagen
 [![Corrida del programa MVC 2](https://img.youtube.com/vi/O-EIGLweJm4/mqdefault.jpg)](https://www.youtube.com/watch?v=O-EIGLweJm4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O-EIGLweJm4?si=N4rJ43-fDwzsMdx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+`https://youtu.be/O-EIGLweJm4`
 
-https://youtu.be/O-EIGLweJm4
 
 Para que funcione primero se tiene que hacer esto:
 1. Crea la base de datos:
