@@ -3,9 +3,9 @@
 Esta es una aplicación de gestión de tareas desarrollada con Flask.
 
 # Imagenes del Proyecto
-![Sin nada](imagenes\Captura de pantalla 2024-11-08 123532.png)
-![Con tareas](imagenes\Captura de pantalla 2024-11-08 123601.png)
-![Una tarea completada](imagenes\Captura de pantalla 2024-11-08 123700.png)
+![Sin nada](imagenes\primero.png)
+![Con tareas](imagenes\segundo.png)
+![Una tarea completada](imagenes\tercero.png)
 
 ## Características
 - Crear, leer, actualizar y eliminar tareas.
