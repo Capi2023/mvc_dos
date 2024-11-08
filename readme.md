@@ -108,6 +108,21 @@ def complete_task(task_id):
 
 # Proyecto una vez refactorizado
 
+Para que funcione primero se tiene que hacer esto:
+1. Crea la base de datos:
+    ```bash
+    from controllers import app, db
+    with app.app_context():
+        db.create_all()
+    ```
+
+2. Ejecuta la aplicación:
+    ```bash
+    python controllers.py
+    ```
+Y se abre con `http://localhost:5000/tasks` para ver y administrar las tareas
+
+
 # Imagenes del Proyecto
 ### Pantalla inicial
 ![Sin nada](imagenes/primero.png)
